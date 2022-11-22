@@ -7,4 +7,4 @@
 Took this test on HackerRank [here](https://www.hackerrank.com/skills-verification/javascript_basic) on 20th November 2022. 
 Certificate can be viewed [here](https://www.hackerrank.com/certificates/94594b709779)
 
-- [JavaScript: Order List Processing](order-list-processing.py)
+- [JavaScript: Order List Processing](order-list-processing.js)
